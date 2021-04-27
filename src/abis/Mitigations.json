@@ -1,0 +1,116 @@
+{
+  "contractName": "Mitigations",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/Users/ryanzola/Desktop/Projects/Crypto/decentragram/src/contracts/Mitigations.sol\":\"Mitigations\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/ryanzola/Desktop/Projects/Crypto/decentragram/src/contracts/Mitigations.sol\":{\"keccak256\":\"0xf5c05c5693fbdc090c9e9666628806c8ac21ca82eba9d858c36dc6366a2ef3bd\",\"urls\":[\"bzz-raw://4831df3fc8a6734fec6ff67608a97963d71bdc826e96defc47e92d6cca954557\",\"dweb:/ipfs/QmRmXfN3LfNKDWSRTALTjePM3mR5eUqRttLJxNgiXvdzhm\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820807a287736ea162d2ccb7a328cbdaf88c6cca2a2d5009c4dac29965c195b12c764736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820807a287736ea162d2ccb7a328cbdaf88c6cca2a2d5009c4dac29965c195b12c764736f6c63430005100032",
+  "sourceMap": "66:23:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;66:23:1;;;;;;;",
+  "deployedSourceMap": "66:23:1:-;;;;;",
+  "source": "// SPDX-License-Identifier: UNLICENSED\npragma solidity >=0.5.16;\n\ncontract Mitigations {}\n",
+  "sourcePath": "/Users/ryanzola/Desktop/Projects/Crypto/decentragram/src/contracts/Mitigations.sol",
+  "ast": {
+    "absolutePath": "/Users/ryanzola/Desktop/Projects/Crypto/decentragram/src/contracts/Mitigations.sol",
+    "exportedSymbols": {
+      "Mitigations": [
+        71
+      ]
+    },
+    "id": 72,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 70,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.5",
+          ".16"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "39:25:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 71,
+        "linearizedBaseContracts": [
+          71
+        ],
+        "name": "Mitigations",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 72,
+        "src": "66:23:1"
+      }
+    ],
+    "src": "39:51:1"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "/Users/ryanzola/Desktop/Projects/Crypto/decentragram/src/contracts/Mitigations.sol",
+      "exportedSymbols": {
+        "Mitigations": [
+          71
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">=",
+            "0.5",
+            ".16"
+          ]
+        },
+        "id": 70,
+        "name": "PragmaDirective",
+        "src": "39:25:1"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            71
+          ],
+          "name": "Mitigations",
+          "nodes": [
+            null
+          ],
+          "scope": 72
+        },
+        "id": 71,
+        "name": "ContractDefinition",
+        "src": "66:23:1"
+      }
+    ],
+    "id": 72,
+    "name": "SourceUnit",
+    "src": "39:51:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.0",
+  "updatedAt": "2021-04-24T20:38:06.309Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
